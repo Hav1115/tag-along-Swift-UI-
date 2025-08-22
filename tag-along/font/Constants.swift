@@ -7,4 +7,4 @@
 
 import Foundation
 
-let baseURL = "http://10.0.0.31:8000"
+//let baseURL = Not there for privacy purposes
